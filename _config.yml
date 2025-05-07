@@ -115,13 +115,13 @@ analytics:
 author:
   name             : "Amanda Johnson"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am a Graduate Research Assistant in the Department of Animal Sciences at Colorado State University"
   location         : "Colorado State University - Fort Collins, CO"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto: amanda.houghton@colostate.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
