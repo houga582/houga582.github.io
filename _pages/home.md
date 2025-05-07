@@ -37,7 +37,7 @@ feature_row3:
     btn_label: "Whatever you want your button to say"
 
 feature_row4:
-  - image_path: path_to_your_image.png # no quotes this time
+  - image_path: assets/Images/Screenshot 2025-05-07 104525.png # no quotes this time
     alt: "ggplot Project"
     excerpt: "Enter a relatively short description here"
     url: "/gglplot_project/" # note that these can also be full urls that take people to other sites
