@@ -7,7 +7,7 @@ header:
   #image: /assets/images/header.jpeg
   #overlay_color: #"#5e616c"
   #overlay_image: /assets/images/fog_road.jpeg
-title: "  "
+title: "CM 515 GitHub Portfolio"
 tagline: "  "   
 author_profile: true
 classes: wide
