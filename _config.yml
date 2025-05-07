@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Amanda Johnson"
-  avatar           : "houga582.github.io/blob/master/assets/Images/Houghton_headshot-06-1024x1536.jpg"
+  avatar           : "assets/Images/Houghton_headshot-06-1024x1536.jpg"
   bio              : "I am a Graduate Research Assistant in the Department of Animal Sciences at Colorado State University"
   location         : "Colorado State University - Fort Collins, CO"
   email            :
