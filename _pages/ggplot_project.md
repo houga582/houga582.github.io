@@ -14,3 +14,9 @@ sidebar:
   nav: "your_nav_heading" # I chose to use an additional sidebar to navigate different parts of this page instead of the author profile. If you use this you will have to add a new section to your navigation.yml file, or you can comment this section out.
 
 ---
+
+![GGPlot2 Logo](/assets/Images/Ggplot2_hex_logo.svg.png)
+
+![Project Screenshot](/assets/Images/Screenshot%202025-05-07%20105856.png)
+
+For the ggplot project, I wanted to examine log-transformed mutation rates by genotype, genome, and mutation type. I got to practice different data visualizations to improve my scientific communication!
