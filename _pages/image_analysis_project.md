@@ -15,8 +15,8 @@ sidebar:
 
 ---
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="/assets/Images/Screenshot%202025-05-03%20165035.png" alt="Processed cell image" style="max-width: 45%; height: auto; margin-bottom: 10px;">
-  <img src="/assets/Images/Cellprofiler-icon.png" alt="CellProfiler icon" style="max-width: 45%; height: auto; margin-bottom: 10px;">
+  <img src="/assets/Images/Screenshot%202025-05-03%20165035.png" alt="Processed cell image" style="max-width: 50%; height: auto; margin-bottom: 10px;">
+  <img src="/assets/Images/Cellprofiler-icon.png" alt="CellProfiler icon" style="max-width: 30%; height: auto; margin-bottom: 10px;">
 </div>
 
 For my image analysis project, I processed images containing numerous cells to count and analyze them effectively.
