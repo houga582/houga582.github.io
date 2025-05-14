@@ -15,4 +15,4 @@ sidebar:
 
 ---
 
-<iframe src="https://github.com/houga582/CM515-course-2025" width="100%" height="600" style="border:none;"></iframe>
+[CM 515 Course Repository on GitHub](https://github.com/houga582/CM515-course-2025)
