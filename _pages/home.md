@@ -15,7 +15,7 @@ classes: wide
 feature_row1:
   - image_path: assets/Images/Screenshot 2025-05-13 203629.png # no quotes this time
     alt: "Resources"
-    excerpt: "Enter a relatively short description here"
+    excerpt: "Helpful computational resources are kept here!"
     url: "/resources/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
     btn_label: "Whatever you want your button to say"
@@ -23,7 +23,7 @@ feature_row1:
 feature_row2:
   - image_path: assets/Images/Screenshot 2025-05-07 104525.png # no quotes this time
     alt: "Lectures"
-    excerpt: "Enter a relatively short description here"
+    excerpt: "CM 515 lecture materials can be found here!"
     url: "/lectures/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
     btn_label: "Whatever you want your button to say"
@@ -31,7 +31,7 @@ feature_row2:
 feature_row3:
   - image_path: assets/Images/Screenshot 2025-05-03 165035.png # no quotes this time
     alt: "Image Analysis Project"
-    excerpt: "Enter a relatively short description here"
+    excerpt: "See my image analysis project here!"
     url: "/image_analysis_project/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
     btn_label: "Whatever you want your button to say"
@@ -39,7 +39,7 @@ feature_row3:
 feature_row4:
   - image_path: assets/Images/Screenshot 2025-05-07 105856.png # no quotes this time
     alt: "ggplot Project"
-    excerpt: "Enter a relatively short description here"
+    excerpt: "See my ggplot project here!"
     url: "/gglplot_project/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
     btn_label: "Whatever you want your button to say" 
