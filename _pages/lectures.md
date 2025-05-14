@@ -5,7 +5,7 @@ hidden: true
 header:
   overlay_image: /assets/path/to/image.png
 title: "Lectures"
-tagline: "These are past CM 515 lectures"   
+tagline: "I can come here to review CM 515 lectures!"   
 author_profile: false # you can change this to true if you want this on the side again!
 read_time: true # this estimates how long it will take someone to read this page
 share: true # this makes this page shareable
