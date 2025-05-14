@@ -14,9 +14,9 @@ sidebar:
   nav: "your_nav_heading" # I chose to use an additional sidebar to navigate different parts of this page instead of the author profile. If you use this you will have to add a new section to your navigation.yml file, or you can comment this section out.
 
 ---
-<div style="display: flex; justify-content: space-between;">
-  <img src="/assets/Images/Screenshot%202025-05-03%20165035.png" alt="Cell image 1" style="max-width: 45%; height: auto;">
-  <img src="/assets/Images/AnotherImage.png" alt="Cell image 2" style="max-width: 45%; height: auto;">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="/assets/Images/Screenshot%202025-05-03%20165035.png" alt="Processed cell image" style="max-width: 45%; height: auto; margin-bottom: 10px;">
+  <img src="/assets/Images/Cellprofiler-icon.png" alt="CellProfiler icon" style="max-width: 45%; height: auto; margin-bottom: 10px;">
 </div>
 
 For my image analysis project, I processed images containing numerous cells to count and analyze them effectively.
