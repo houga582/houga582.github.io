@@ -15,7 +15,7 @@ sidebar:
 
 ---
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="/assets/Images/Ggplot2_hex_logo.svg.png" alt="Processed cell image" style="max-width: 50%; height: auto; margin-bottom: 10px;">
+  <img src="/assets/Images/Ggplot2_hex_logo.svg.png" alt="Processed cell image" style="max-width: 40%; height: auto; margin-bottom: 10px;">
   <img src="/assets/Images/Screenshot%202025-05-07%20105856.png" alt="CellProfiler icon" style="max-width: 60%; height: auto; margin-bottom: 10px;">
 </div>
 
