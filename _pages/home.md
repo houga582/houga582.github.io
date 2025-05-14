@@ -40,7 +40,7 @@ feature_row4:
   - image_path: assets/Images/Screenshot 2025-05-07 105856.png # no quotes this time
     alt: "ggplot Project"
     excerpt: "See my ggplot project here!"
-    url: "/gglplot_project/" # note that these can also be full urls that take people to other sites
+    url: "/ggplot_project/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
     btn_label: "Let's go!" 
 ---
