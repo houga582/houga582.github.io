@@ -18,7 +18,7 @@ feature_row1:
     excerpt: "Helpful computational resources are kept here!"
     url: "/resources/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
-    btn_label: "Whatever you want your button to say"
+    btn_label: "Follow me!"
     
 feature_row2:
   - image_path: assets/Images/Screenshot 2025-05-07 104525.png # no quotes this time
@@ -26,7 +26,7 @@ feature_row2:
     excerpt: "CM 515 lecture materials can be found here!"
     url: "/lectures/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
-    btn_label: "Whatever you want your button to say"
+    btn_label: "Over here!"
     
 feature_row3:
   - image_path: assets/Images/Screenshot 2025-05-03 165035.png # no quotes this time
@@ -34,7 +34,7 @@ feature_row3:
     excerpt: "See my image analysis project here!"
     url: "/image_analysis_project/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
-    btn_label: "Whatever you want your button to say"
+    btn_label: "This way!"
 
 feature_row4:
   - image_path: assets/Images/Screenshot 2025-05-07 105856.png # no quotes this time
@@ -42,7 +42,7 @@ feature_row4:
     excerpt: "See my ggplot project here!"
     url: "/gglplot_project/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
-    btn_label: "Whatever you want your button to say" 
+    btn_label: "Let's go!" 
 ---
 
 Portfolio of materials from [CSU CM515](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main)! 
