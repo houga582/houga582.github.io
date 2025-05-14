@@ -13,7 +13,7 @@ author_profile: true
 classes: wide
    
 feature_row1:
-  - image_path: path_to_your_image.png # no quotes this time
+  - image_path: assets/Images/Screenshot 2025-05-13 203629.png # no quotes this time
     alt: "Resources"
     excerpt: "Enter a relatively short description here"
     url: "/resources/" # note that these can also be full urls that take people to other sites
