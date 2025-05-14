@@ -8,3 +8,5 @@ main:
     url: /image_analysis_project/
   - title: "ggplot Project"
     url: /ggplot_project/
+  - title: "Search"
+    url: /search/
