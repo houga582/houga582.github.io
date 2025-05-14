@@ -14,6 +14,6 @@ sidebar:
   nav: "your_nav_heading" # I chose to use an additional sidebar to navigate different parts of this page instead of the author profile. If you use this you will have to add a new section to your navigation.yml file, or you can comment this section out.
 
 ---
-assets/Images/Screenshot 2025-05-03 165035.png
+![Cell image analysis result](/assets/Images/Screenshot%202025-05-03%20165035.png)
 
 For my image analysis project, I processed images containing numerous cells so I would be able to count them. My pipeline smoothed the outline of the cells and improved the intensity so I could use CellProfiler to count and measure each cell!
