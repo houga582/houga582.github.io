@@ -15,6 +15,6 @@ sidebar:
 
 ---
 
-<img src="/assets/path/to/side_image.jpg" alt="Descriptive alt text" style="float: right; margin: 0 0 1em 1em; width: 300px;">
+<img src="assets/Images/Screenshot 2025-05-03 165035.png" alt="Descriptive alt text" style="float: right; margin: 0 0 1em 1em; width: 300px;">
 
 For my image analysis project, I processed images containing numerous cells so I would be able to count them. My pipeline smoothed the outline of the cells and improved the intensity so I could use CellProfiler to count and measure each cell!
