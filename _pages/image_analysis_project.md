@@ -5,7 +5,7 @@ hidden: true
 header:
   overlay_image: /assets/path/to/image.png
 title: "Image Analysis Project"
-tagline: "These are materials from my image analysis project"   
+tagline: "I did this for my image analysis project!"   
 author_profile: false # you can change this to true if you want this on the side again!
 read_time: true # this estimates how long it will take someone to read this page
 share: true # this makes this page shareable
