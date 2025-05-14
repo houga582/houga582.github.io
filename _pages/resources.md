@@ -16,4 +16,5 @@ sidebar:
 ---
 # Computational Support Resources
 :pushpin:[GitHubPages](https://pages.github.com/)
+
 :pushpin:[RProjectHelp](https://www.r-project.org/help.html))
