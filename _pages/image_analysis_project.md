@@ -1,5 +1,5 @@
 ---
-layout: single # I've mostly used the most basic layout, single, and modified it from there but feel free to pick a different one and play around!
+layout: splash # I've mostly used the most basic layout, single, and modified it from there but feel free to pick a different one and play around!
 permalink: /image_analysis_project/ # for example, for the resources page you would put resources
 hidden: true
 header:
@@ -14,7 +14,6 @@ sidebar:
   nav: "your_nav_heading" # I chose to use an additional sidebar to navigate different parts of this page instead of the author profile. If you use this you will have to add a new section to your navigation.yml file, or you can comment this section out.
 
 ---
-
-<img src="assets/Images/Screenshot 2025-05-03 165035.png" alt="Descriptive alt text" style="float: right; margin: 0 0 1em 1em; width: 300px;">
+assets/Images/Screenshot 2025-05-03 165035.png
 
 For my image analysis project, I processed images containing numerous cells so I would be able to count them. My pipeline smoothed the outline of the cells and improved the intensity so I could use CellProfiler to count and measure each cell!
