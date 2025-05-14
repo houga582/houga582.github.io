@@ -14,3 +14,5 @@ sidebar:
   nav: "your_nav_heading" # I chose to use an additional sidebar to navigate different parts of this page instead of the author profile. If you use this you will have to add a new section to your navigation.yml file, or you can comment this section out.
 
 ---
+
+<iframe src="https://github.com/houga582/CM515-course-2025" width="100%" height="600" style="border:none;"></iframe>
