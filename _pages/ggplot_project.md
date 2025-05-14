@@ -5,7 +5,7 @@ hidden: true
 header:
   overlay_image: /assets/path/to/image.png
 title: "ggplot Project"
-tagline: "These are materials from my ggplot project"   
+tagline: "My ggplot project looks great!"   
 author_profile: false # you can change this to true if you want this on the side again!
 read_time: true # this estimates how long it will take someone to read this page
 share: true # this makes this page shareable
